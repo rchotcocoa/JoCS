@@ -1,3 +1,4 @@
 celeba.zip filter=lfs diff=lfs merge=lfs -text
 church.zip filter=lfs diff=lfs merge=lfs -text
 ffhq.zip filter=lfs diff=lfs merge=lfs -text
+horse.zip filter=lfs diff=lfs merge=lfs -text
